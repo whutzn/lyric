@@ -4,7 +4,7 @@ get lyrics from [gecimi](http://gecimi.com/) for my sony music player.
 
 ## Rules
 
-the namings rule is 'singer'-'song', eg Coldplay-yellow.
+the naming rule is 'singer'-'song', eg Coldplay-yellow.
 
 ## Usage
 
