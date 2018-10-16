@@ -10,6 +10,6 @@ the namings rule is 'singer'-'song', eg Coldplay-yellow.
 
 only need music dir,like
 
-<pre>
+<pre><code>
   python main.py f:\\music
-</pre>
+</code></pre>
