@@ -1,0 +1,2 @@
+# lyric
+get lyric file 
